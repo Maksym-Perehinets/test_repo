@@ -3,11 +3,4 @@ line 2
 line 3
 line 4
 
-
-Line 1
-Line 2
-Line 3
-Line 4
-
-how to delit commit
-
+lets delet a remote commit
