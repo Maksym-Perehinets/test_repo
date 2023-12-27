@@ -3,4 +3,15 @@ line 2
 line 3
 line 4
 
+<<<<<<< HEAD
 lets delet a remote commit
+=======
+
+Line 1
+Line 2
+Line 3
+Line 4
+
+how to delit commit
+
+>>>>>>> 0f3330e7fbf33e9cc7ba39f6d0294087db1c7ad1
